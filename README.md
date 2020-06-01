@@ -2,4 +2,4 @@
 
 Hello World!
 
-![tugas1](screen/tugas1.png)
+![tugas1](screen/tugas-1.png)
