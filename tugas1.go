@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-    fmt.Println("Hasan Suryaman")
+    fmt.Println("Hasan Suryaman") // menampilkan output nama
 }
